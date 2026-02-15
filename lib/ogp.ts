@@ -1,4 +1,5 @@
 import * as cheerio from 'cheerio'
+import axios from 'axios'
 
 export interface OGPData {
     title: string
@@ -10,17 +11,13 @@ export interface OGPData {
 
 export async function fetchOGP(url: string): Promise<OGPData> {
     try {
-        const response = await fetch(url, {
+        const response = await axios.get(url, {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (compatible; OGPBot/1.0)',
             },
         })
 
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`)
-        }
-
-        const html = await response.text()
+        const html = response.data
         const $ = cheerio.load(html)
 
         const ogTitle = $('meta[property="og:title"]').attr('content') || $('title').text()

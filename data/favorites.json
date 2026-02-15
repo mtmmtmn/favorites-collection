@@ -1,110 +1,58 @@
 [
   {
     "id": "1",
-    "url": "https://one-piece.com/",
-    "title": "ONE PIECE",
-    "description": "尾田栄一郎による海賊冒険漫画。週刊少年ジャンプで連載中の大人気作品。",
-    "image": "https://one-piece.com/assets/images/common/ogp.png",
+    "url": "https://hanakokun.com/",
+    "title": "地縛少年花子くん",
     "category": "manga",
     "addedAt": "2026-02-15"
   },
   {
     "id": "2",
-    "url": "https://www.shonenjump.com/j/rensai/jujutsu.html",
-    "title": "呪術廻戦",
-    "description": "芥見下々による現代ダークファンタジー漫画。呪いと呪術師の戦いを描く。",
-    "image": "https://www.shonenjump.com/j/rensai/jujutsu.html",
+    "url": "https://uy-allstars.com/",
+    "title": "うる星やつら",
     "category": "manga",
     "addedAt": "2026-02-14"
   },
   {
     "id": "3",
-    "url": "https://www.shonenjump.com/j/rensai/chainsaw.html",
-    "title": "チェンソーマン",
-    "description": "藤本タツキによるダークファンタジー漫画。悪魔と契約したデビルハンターの物語。",
-    "image": "https://www.shonenjump.com/j/rensai/chainsaw.html",
-    "category": "manga",
-    "addedAt": "2026-02-13"
-  },
-  {
-    "id": "4",
-    "url": "https://www.shinchosha.co.jp/book/610663/",
-    "title": "人間失格",
-    "description": "太宰治の代表作。人間性の喪失と苦悩を描いた私小説。",
-    "image": "https://www.shinchosha.co.jp/book/610663/",
+    "url": "https://www.gentosha.co.jp/book/detail/9784344041165/",
+    "title": "まいまいつぶろ",
     "category": "book",
     "addedAt": "2026-02-12"
   },
   {
-    "id": "5",
-    "url": "https://www.hayakawa-online.co.jp/product/books/111903.html",
-    "title": "三体",
-    "description": "劉慈欣によるSF小説。地球外文明との接触を描いた壮大な物語。",
-    "image": "https://www.hayakawa-online.co.jp/product/books/111903.html",
-    "category": "book",
-    "addedAt": "2026-02-11"
-  },
-  {
-    "id": "6",
-    "url": "https://www.shinchosha.co.jp/book/129609/",
-    "title": "ノルウェイの森",
-    "description": "村上春樹の代表作。1960年代の東京を舞台にした青春小説。",
-    "image": "https://www.shinchosha.co.jp/book/129609/",
-    "category": "book",
-    "addedAt": "2026-02-10"
-  },
-  {
-    "id": "7",
-    "url": "https://frieren-anime.jp/",
-    "title": "葬送のフリーレン",
-    "description": "勇者一行の魔法使いフリーレンの、勇者の死後の旅を描くファンタジーアニメ。",
-    "image": "https://frieren-anime.jp/",
+    "id": "4",
+    "url": "https://takagi3.me/1st/",
+    "title": "からかい上手の高木さん",
     "category": "anime",
     "addedAt": "2026-02-09"
   },
   {
+    "id": "5",
+    "url": "https://kamuy-anime.com/",
+    "title": "ゴールデンカムイ",
+    "category": "manga",
+    "addedAt": "2026-02-14"
+  },
+  {
+    "id": "6",
+    "url": "https://jojo-portal.com/",
+    "title": "ジョジョの奇妙な冒険",
+    "category": "manga",
+    "addedAt": "2026-02-14"
+  },
+  {
+    "id": "7",
+    "url": "https://www.anime-chiikawa.jp/",
+    "title": "ちいかわ",
+    "category": "manga",
+    "addedAt": "2026-02-15"
+  },
+  {
     "id": "8",
-    "url": "https://spy-family.net/",
-    "title": "SPY×FAMILY",
-    "description": "遠藤達哉原作。スパイ、殺し屋、超能力者が仮初めの家族を作るコメディアニメ。",
-    "image": "https://spy-family.net/",
-    "category": "anime",
-    "addedAt": "2026-02-08"
-  },
-  {
-    "id": "9",
-    "url": "https://kimetsu.com/anime/",
-    "title": "鬼滅の刃",
-    "description": "吾峠呼世晴原作。大正時代を舞台に、鬼と鬼狩りの戦いを描く。",
-    "image": "https://kimetsu.com/anime/",
-    "category": "anime",
-    "addedAt": "2026-02-07"
-  },
-  {
-    "id": "10",
-    "url": "https://www.shonenjump.com/j/rensai/sakamoto.html",
-    "title": "SAKAMOTO DAYS",
-    "description": "鈴木祐斗による殺し屋アクション漫画。元最強殺し屋の平穏な日常。",
-    "image": "https://www.shonenjump.com/j/rensai/sakamoto.html",
-    "category": "manga",
-    "addedAt": "2026-02-06"
-  },
-  {
-    "id": "11",
-    "url": "https://www.shonenjump.com/j/rensai/dandadan.html",
-    "title": "ダンダダン",
-    "description": "龍幸伸によるオカルト×SF漫画。幽霊と宇宙人が同時に現れる青春ストーリー。",
-    "image": "https://www.shonenjump.com/j/rensai/dandadan.html",
-    "category": "manga",
-    "addedAt": "2026-02-05"
-  },
-  {
-    "id": "12",
-    "url": "https://www.iwanami.co.jp/book/b259883.html",
-    "title": "銃・病原菌・鉄",
-    "description": "ジャレド・ダイアモンドによる人類史の考察。文明の発展要因を分析。",
-    "image": "https://www.iwanami.co.jp/book/b259883.html",
+    "url": "https://www.hayakawa-online.co.jp/shop/g/g0000012506/",
+    "title": "プロジェクト・ヘイル・メアリー",
     "category": "book",
-    "addedAt": "2026-02-04"
+    "addedAt": "2026-02-15"
   }
 ]
